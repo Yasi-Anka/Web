@@ -1,0 +1,30 @@
+body {
+    background-position: cover;
+    background-size: cover;
+}
+   
+.zagolovok {
+    text-align: center;
+}
+
+.center {
+    background-color:rgba(127, 167, 179, 0.495);
+
+    padding-top: 22px;/*отступ сверху внутри*/
+    padding-bottom: 22px;/*отступ снизу внутри*/
+    margin-bottom: 48px;/*отступ снизу снаружи*/
+    margin-top: 48px;/*отступ сверху снаружи*/
+    padding-left: 22px;
+    padding-right: 22px;
+    
+    
+    width: 700px;
+    border: 4px solid rgba(70, 84, 96, 0.092);
+
+    }
+
+img {
+    width: 30px;/*высота*/
+    height: 30px;/*ширина*/
+    background-size: 100%; /*Растянуть до 100% ширины(сохраняет пропорции)*/
+}
